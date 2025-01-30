@@ -1,4 +1,4 @@
-package ru.maxima.spring.aop.aspect;
+package ru.maxima.spring.aop.task2.aspect;
 
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.ProceedingJoinPoint;
